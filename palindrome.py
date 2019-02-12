@@ -8,5 +8,5 @@ while t!=0:
 if n==temo:
     print("yes")
 else:
-    print("NOT")
+    print("not")
     
