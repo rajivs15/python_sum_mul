@@ -5,6 +5,6 @@ for i in range(2,n//2):
         flag=1
         break
 if flag==0:
-    print("prime")
+    print("yes")
 else:
-    print("NOT")
+    print("no")
