@@ -1,7 +1,7 @@
-n,k=map(int,input().split())
-for n in range(n+1,k):
-	if n%2!=0:
-		print(n)
+N,Q=map(int,input().split())
+for N in range(N+1,Q):
+	if N%2!=0:
+		print(N)
     
     
    '''
